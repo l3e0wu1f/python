@@ -1,0 +1,24 @@
+apple,0.50
+banana,0.50
+bell pepper,3.50
+cabbage,0.85
+celery,0.65
+eggplant,1.00
+endive,0.75
+fennel,1.00
+ginger,1.50
+grapefruit,3.00
+heirloom,4.99
+jalapeno,0.50
+lemon,0.30
+lentil bag,1.50
+mango,2.50
+nectarine,0.85
+olive jar,9.99
+orange,0.50
+parsnip,0.75
+rutabega,3.50
+spinach bag,4.50
+turnip,0.65
+watermelon,1.80
+yam,0.95
